@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "262646500289",
+    "firebase_url": "https://bionic-run-234410.firebaseio.com",
+    "project_id": "bionic-run-234410",
+    "storage_bucket": "bionic-run-234410.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:262646500289:android:946e603e202dd070",
+        "android_client_info": {
+          "package_name": "com.buyuphk.scan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "262646500289-1g177ia8io1rag8tockcmnndqncbljft.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCZGG4iolXy-BXXdphdhPZubP1ZuA20myA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "262646500289-1g177ia8io1rag8tockcmnndqncbljft.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
